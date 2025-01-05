@@ -1,6 +1,8 @@
 # Local PulseMCP Clone
 
-This is a local clone of the PulseMCP API repository. It is intended to be used for development and testing purposes.
+This is a local clone of the [PulseMCP](https://www.pulsemcp.com/) API repository. It is intended to be used for development and testing purposes. 
+
+This project is not affiliated with PulseMCP and is not endorsed by them. (also the code was written mostly by ai so its not that good)
 
 ## Installation
 
